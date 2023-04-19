@@ -25,3 +25,6 @@ Utilisation possible uniquement sur un téléphone Android avec les services Goo
 ### Vue 3
 ![My Remote Image](https://image.noelshack.com/fichiers/2023/14/5/1680897477-img3.png)
 
+# Auteurs
+
+Ce projet a été réalisé par moi-même
